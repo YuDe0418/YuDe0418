@@ -1,7 +1,14 @@
-### Hi I'm YuDe , I'm a student from [TNTCSH](https://www.tntcsh.tn.edu.tw/portal). I'm interseted in the **Information Field**.  
-### I like learning programming and writing notes on what I learning.
-### I'm learning C++ currently and I want to be a Software Engineer.
+# Hi, I’m YuDe
 
-* [My Instagram](https://www.instagram.com/c.__yd/)
-* My Discord: yude0418
+I enjoy building web applications and writing notes about what I learn. I’ve studied C++ and am working toward a career in software engineering.
 
+## Featured project
+
+**Common Ground · 交流廣場** is a full-stack discussion board built with FastAPI, React, TypeScript, and SQLite. Members can publish time-limited posts, reply, and leave likes. The admin dashboard includes moderation tools and audit logs.
+
+[Source code](https://github.com/YuDe0418/fastapi-vibe-coding-project) · [English README](https://github.com/YuDe0418/fastapi-vibe-coding-project/blob/main/README.md) · [繁體中文 README](https://github.com/YuDe0418/fastapi-vibe-coding-project/blob/main/README.zh-TW.md)
+
+## Contact
+
+- [Instagram](https://www.instagram.com/c.__yd/)
+- Discord `yude0418`
