@@ -1,6 +1,6 @@
 # Hi, I’m YuDe
 
-I enjoy building web applications and writing notes about what I learn. I’ve studied C++ and am working toward a career in software engineering.
+I enjoy building web applications and writing notes about what I learn.
 
 ## Featured project
 
